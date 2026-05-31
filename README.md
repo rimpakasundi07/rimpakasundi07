@@ -6,10 +6,6 @@
  Frontend Web Developer from India
 </h3>
 
-<p align="center">
-Creating beautiful, responsive and user-friendly web experiences.
-</p>
-
 ---
 
 ## 💫 About Me
