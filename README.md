@@ -1,137 +1,164 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+There!+I'm+Sumon+Mitra+👋;Frontend+Web+Developer;React+%7C+Next.js+%7C+Laravel;MERN+Stack+Enthusiast+🚀;Building+Modern+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&pause=1000&color=2563EB&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B+I'm+Rimpa+Kasundi;MERN+Stack+Developer;React+%7C+Next.js+Developer;Building+Modern+Responsive+Websites" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
-  💻 Passionate Frontend Developer From India 🇮🇳
+ Frontend Web Developer from India
 </h3>
 
----
+<p align="center">
+Creating beautiful, responsive and user-friendly web experiences.
+</p>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=sumonDev9&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=rimpakasundi07&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
 
 </div>
 
 ---
 
-<div align="center">
-  
-  <a href="https://github.com/sumonDev9">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+## 💫 About Me
 
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<img align="right" width="320" src="https://raw.githubusercontent.com/rimpakasundi07/rimpakasundi07/main/assets/female.gif" alt="Female Developer">
 
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+🔹 Passionate Frontend Web Developer
 
-  <a href="https://facebook.com">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
+🔹 Building responsive websites with modern UI
 
-</div>
+🔹 Skilled in HTML, CSS, JavaScript & Tailwind CSS
 
----
+🔹 Focused on performance, accessibility and clean code
 
-# 👨‍💻 About Me
+🔹 Currently learning advanced frontend development
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🌱 Currently learning **Next.js & Backend Development**
-- 💻 Love building **Modern Responsive Websites**
-- 🚀 Exploring **Laravel & MERN Stack**
-- 🎯 Goal: Become a **Full Stack Developer**
-- ⚡ Fun Fact: I love clean UI & smooth animations
-
-<br>
-<br>
-
----
-
-# 🚀 Tech Stack
-
-<div align="center">
-
-### 🌐 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs,vue" />
+🔹 Goal: Become a Professional Full Stack Developer
 
 <br><br>
 
-### ⚙️ Backend & Database
+---
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mongodb,mysql,firebase" />
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" />
 
 <br><br>
 
-### 🛠️ Tools & Platforms
+### Version Control & Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify" />
 
-</div>
+<br><br>
 
----
+### Currently Learning
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sumonDev9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumonDev9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sumonDev9&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs" />
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+## 🌟 Featured Projects
+
+### ✈️ Prime Journey
+
+Modern travel website with responsive design and engaging UI.
+
+### 🌸 Floravue Flower Shop
+
+Elegant flower shop landing page with modern layouts.
+
+### 🏖️ Tour Mama
+
+Tourism website focused on user experience and responsiveness.
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumonDev9&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rimpakasundi07&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimpakasundi07&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sumonDev9&theme=algolia&no-frame=true&row=1&column=7" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rimpakasundi07&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sumonDev9/sumonDev9/output/snake.svg" alt="Snake animation" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rimpakasundi07&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# ✨ Random Dev Quote
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://github-profile-trophy.vercel.app/?username=rimpakasundi07&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rimpakasundi07/rimpakasundi07/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/rimpakasundi07">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## ✨ Quote
+
+<div align="center">
+
+<i>"First, solve the problem. Then, write the code."</i>
 
 </div>
 
