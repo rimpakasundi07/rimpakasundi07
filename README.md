@@ -10,12 +10,6 @@
 Creating beautiful, responsive and user-friendly web experiences.
 </p>
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=rimpakasundi07&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
-
-</div>
-
 ---
 
 ## 💫 About Me
@@ -37,56 +31,58 @@ Creating beautiful, responsive and user-friendly web experiences.
 <br><br>
 
 ---
-
 ## 🛠️ Tech Stack
 
-<div align="center">
+<h3 align="center">Frontend Development</h3>
 
-### Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" />
+<h3 align="center">MERN Stack</h3>
 
-<br><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
 
-### Version Control & Tools
+<h3 align="center">Tools & Platforms</h3>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=netlify" />
+</p>
 
-<br><br>
-
-### Currently Learning
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs" />
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-### ✈️ Prime Journey
-
-Modern travel website with responsive design and engaging UI.
-
-### 🌸 Floravue Flower Shop
-
-Elegant flower shop landing page with modern layouts.
-
-### 🏖️ Tour Mama
-
-Tourism website focused on user experience and responsiveness.
-
----
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rimpakasundi07&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rimpakasundi07&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimpakasundi07&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimpakasundi07&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -112,21 +108,9 @@ Tourism website focused on user experience and responsiveness.
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rimpakasundi07&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rimpakasundi07/rimpakasundi07/output/github-contribution-grid-snake.svg" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rimpakasundi07&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
@@ -138,17 +122,11 @@ Tourism website focused on user experience and responsiveness.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
 <a href="https://www.linkedin.com">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.facebook.com">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
+
 
 </div>
 
