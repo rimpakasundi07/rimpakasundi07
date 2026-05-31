@@ -92,16 +92,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rimpakasundi07&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
