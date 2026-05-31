@@ -109,12 +109,6 @@
 </p>
 
 ---
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rimpakasundi07/rimpakasundi07/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
----
 ## 🌐 Connect With Me
 
 <div align="center">
